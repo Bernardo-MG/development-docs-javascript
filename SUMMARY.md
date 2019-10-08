@@ -18,3 +18,9 @@
 
 * [Hash Routing](routing/hash-routing.md)
 
+## NPM
+
+* [Scripts](npm/scripts.md)
+* [Dependencies](npm/dependencies.md)
+* [Validating Versions](npm/validating-versions.md)
+
