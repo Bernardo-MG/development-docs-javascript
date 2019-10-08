@@ -8,7 +8,7 @@ As it is just a helping tool, it does not aim to be an in-depth guide. It expect
 
 ## Reading the docs
 
-The docs can be [read in Gitbook](https://bernardo.gitbook.io/development-docs-java/), where they are deployed automatically.
+The docs can be [read in Gitbook](https://bernardo.gitbook.io/development-docs-javascript/), where they are deployed automatically.
 
 ## Building the docs
 
@@ -22,11 +22,11 @@ Of course everybody is free to fork and adapt the project for their own use.
 
 ### Issues management
 
-Issues are managed at the GitHub [project issues tracker](https://github.com/bernardo-mg/development-docs-java/issues), where any Github user may report bugs or ask for new features.
+Issues are managed at the GitHub [project issues tracker](https://github.com/bernardo-mg/development-docs-javascript/issues), where any Github user may report bugs or ask for new features.
 
 ### Getting the code
 
-If you wish to fork or modify the code, visit the [GitHub project page](https://github.com/bernardo-mg/development-docs-java), where the latest versions are always kept. Check the 'master' branch for the latest release, and the 'develop' for the current, and stable, development version.
+If you wish to fork or modify the code, visit the [GitHub project page](https://github.com/bernardo-mg/development-docs-javascript), where the latest versions are always kept. Check the 'master' branch for the latest release, and the 'develop' for the current, and stable, development version.
 
 ## License
 
