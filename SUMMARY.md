@@ -8,6 +8,10 @@
 * [Spread Operator](general/spread-operator.md)
 * [Lambdas](general/lambdas.md)
 
+## Objects
+
+* [Values from Associative Array](objects/values-from-associative-array.md)
+
 ## Testing <a id="tests"></a>
 
 * [Libraries](tests/libraries/README.md)
