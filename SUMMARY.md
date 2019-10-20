@@ -47,4 +47,5 @@
   * [Enzyme](react/testing/enzyme.md)
 * [Redux for React](react/redux-for-react.md)
 * [PropTypes](react/proptypes.md)
+* [Grouping Components](react/grouping-components.md)
 
