@@ -17,6 +17,7 @@
 * [Libraries](tests/libraries/README.md)
   * [Jest](tests/libraries/jest.md)
   * [Enzyme](tests/libraries/enzyme.md)
+* [Snapshot Testing](tests/snapshot-testing.md)
 
 ## Routing
 
