@@ -1,4 +1,6 @@
-# Validating Versions
+# Commands
+
+## Checking for Newer Versions
 
 To check for the latest versions:
 
@@ -10,5 +12,11 @@ To check the current security status of the dependencies:
 
 ```bash
 npm audit
+```
+
+## Updating the Version Lock
+
+```bash
+npm update
 ```
 

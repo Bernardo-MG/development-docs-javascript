@@ -25,9 +25,10 @@
 
 ## NPM
 
+* [Commands](npm/commands.md)
 * [Scripts](npm/scripts.md)
 * [Dependencies](npm/dependencies.md)
-* [Validating Versions](npm/validating-versions.md)
+* [Versions](npm/versions.md)
 
 ## REACT
 

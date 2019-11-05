@@ -1,6 +1,6 @@
 # Dependencies
 
-```text
+```javascript
 {
    "dependencies": {
       "bootstrap": "~3.3.7"
