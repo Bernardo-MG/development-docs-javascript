@@ -20,3 +20,9 @@ npm audit
 npm update
 ```
 
+## Installing on Automated Environments
+
+```bash
+npm ci
+```
+
