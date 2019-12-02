@@ -7,6 +7,7 @@
 * [Binding This](general/binding-this.md)
 * [Spread Operator](general/spread-operator.md)
 * [Lambdas](general/lambdas.md)
+* [Destructuring](general/destructuring.md)
 
 ## Objects
 
@@ -35,7 +36,7 @@
 * [Conditional Property](react/conditional-property.md)
 * [Components](react/components/README.md)
   * [Wrapping Components](react/components/wrapping-components.md)
-  * [Spreading Properties](react/components/spreading-properties.md)
+  * [Spreading Properties \(Destructuring\)](react/components/spreading-properties.md)
   * [Dynamic Construction](react/components/dynamic-construction.md)
   * [Conditional Rendering](react/components/conditional-rendering.md)
 * [Hooks](react/hooks/README.md)

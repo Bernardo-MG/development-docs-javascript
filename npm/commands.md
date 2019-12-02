@@ -26,3 +26,9 @@ npm update
 npm ci
 ```
 
+## Checking Installation Status
+
+```bash
+npm doctor
+```
+

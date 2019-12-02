@@ -1,4 +1,4 @@
-# Spreading Properties
+# Spreading Properties \(Destructuring\)
 
 Sometimes passing properties from a higher order component to the one it wraps feels redundant:
 
